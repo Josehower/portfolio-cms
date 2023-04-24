@@ -10,7 +10,9 @@
     "export": "pnpm build && next export"
   },
   "dependencies": {
+    "@ts-safeql/eslint-plugin": "^1.0.0",
     "cypress": "^12.9.0",
+    "libpg-query": "^15.0.2",
     "local-cypress": "1.2.6",
     "next": "13.3.0",
     "react": "18.2.0",
